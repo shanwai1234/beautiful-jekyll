@@ -23,7 +23,9 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Own Research News: "Own Research News"
+  Research Blog: "Research Blog"
+  Life is Wonderful: "Life is Wonderful"
   Resources:
     - Schnable Lab@UNL: "http://www.schnablelab.org/"
     - MaizeGDB: "http://www.maizegdb.org/"
