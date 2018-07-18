@@ -15,10 +15,7 @@ body {
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
-  {% if site.page-img %}
-  background-image: url({{ site.page-img }});
-  background-attachment: fixed;
-  {% endif %}
+  background: #D0E4F5 url("/img/bgimage.png") repeat fixed 0 0;
 }
 p {
   line-height: 1.5;
