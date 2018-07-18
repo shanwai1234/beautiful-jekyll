@@ -17,7 +17,7 @@ baseurl: ""
 title: Zhikai Liang Website
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: You make the failure complete when you stop trying
 
 # --- Navigation bar options --- #
 
@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Research News: "Research News"
   Blog: "Blog"
-  Wonderful Life: "Wonderful Life"
+  Wonderful Life: "Life"
   Resources:
     - Schnable Lab@UNL: "http://www.schnablelab.org/"
     - MaizeGDB: "http://www.maizegdb.org/"
