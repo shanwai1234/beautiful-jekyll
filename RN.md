@@ -11,7 +11,7 @@ News related to both research and Zhikai
 Completed two days root sampling for rhizosphere microbe study @[CRRI](https://crri.unl.edu/home)!! 
 
 <p align="center">
-  <img width="500" height="400" src="https://i.imgur.com/ZKtmvqB.jpg">
+  <img width="250" height="200" src="https://i.imgur.com/ZKtmvqB.jpg">
 </p>
 
 <hr>
@@ -21,7 +21,7 @@ Completed two days root sampling for rhizosphere microbe study @[CRRI](https://c
 Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotyping Conference and other two institutes in East China about high-throughput plant phenotyping. Hope can develop more in future.
 
 <p align="center">
-  <img width="400" height="400" src="https://i.imgur.com/R5x5552.jpg">
+  <img width="200" height="200" src="https://i.imgur.com/R5x5552.jpg">
 </p>
 
 <hr>
@@ -31,5 +31,5 @@ Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotypin
 First time to attend a professional conference and be proud to give my first time oral presentation in 58th maize genetics conference. Regretably I am hidden in front of my slides ...
 
 <p align="center">
-  <img width="300" height=400" src="https://i.imgur.com/tYrYtIB.jpg">
+  <img width="150" height=200" src="https://i.imgur.com/tYrYtIB.jpg">
 </p>
