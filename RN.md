@@ -46,6 +46,16 @@ Very glad to join the host of field Spider-cam phenotyping facilites visiting of
 
 <hr>
 
+04-2016
+
+Using Lemnatec Automatic greenhouse system to estimate the water use efficiency of various species and varieties within each species. Sorghum and millets on right side apparently use water in a more efficient way than maize, valuable to dig in.
+
+<p align="center">
+  <img width="400" height="200" src="https://i.imgur.com/iYUy7ix.png">
+</p>
+
+<hr>
+
 03-2016
 
 First time to attend a professional conference and be proud to give my first time oral presentation in 58th maize genetics conference holden in Jacksonville, Florida. Regretably I am hidden in front of my slides ...
