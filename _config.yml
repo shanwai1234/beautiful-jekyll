@@ -30,7 +30,7 @@ navbar-links:
     - Schnable Lab@UNL: "http://www.schnablelab.org/"
     - MaizeGDB: "http://www.maizegdb.org/"
     - Phenotyping Network: "https://www.plant-phenotyping.org/"
-  Github: "http://shanwai1234"
+  Github: "https://github.com/shanwai1234"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
