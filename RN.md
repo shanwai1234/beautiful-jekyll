@@ -18,7 +18,7 @@ Completed two days root sampling for rhizosphere microbe study @[CRRI](https://c
 
 07-01-2018
 
-Genomic selection on four field traits of hybrid pearl millet published [online](http://www.g3journal.org/content/8/7/2513).
+Genomic selection on four field traits of hybrid pearl millet published [online](http://www.g3journal.org/content/8/7/2513). Just got acceptance after 1 month submission, thank you G3 journal for this super fast decision!!
 
 <p align="center">
   <img width="200" height="300" src="https://i.imgur.com/HIHnTcJ.jpg">
@@ -38,7 +38,7 @@ Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotypin
 
 03-2016
 
-First time to attend a professional conference and be proud to give my first time oral presentation in 58th maize genetics conference. Regretably I am hidden in front of my slides ...
+First time to attend a professional conference and be proud to give my first time oral presentation in 58th maize genetics conference holden in Jacksonville, Florida. Regretably I am hidden in front of my slides ...
 
 <p align="center">
   <img width="200" height="300" src="https://i.imgur.com/tYrYtIB.jpg">
