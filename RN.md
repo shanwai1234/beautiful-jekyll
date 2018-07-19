@@ -21,5 +21,5 @@ Completed two days root sampling for rhizosphere microbe study @[CRRI](https://c
 Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotyping Conference and other two institutes in East China about high-throughput plant phenotyping. Hope can develop more in future.
 
 <p align="center">
-  <img width="500" height="400" src="https://i.imgur.com/R5x5552.jpg">
+  <img width="400" height="400" src="https://i.imgur.com/R5x5552.jpg">
 </p>
