@@ -23,9 +23,9 @@ description: You make the failure complete when you stop trying
 
 # List of links in the navigation bar
 navbar-links:
-  Research News: "Research News"
+  Research News: "RN"
   Paper Blog: "Paper Blog"
-  Life: "Life"
+  Life: "LF"
   Resources:
     - Schnable Lab@UNL: "http://www.schnablelab.org/"
     - MaizeGDB: "http://www.maizegdb.org/"
