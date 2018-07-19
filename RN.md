@@ -31,5 +31,5 @@ Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotypin
 First time to attend a professional conference and be proud to give my first time oral presentation in 58th maize genetics conference. Regretably I am hidden in front of my slides ...
 
 <p align="center">
-  <img width="400" height="600" src="https://i.imgur.com/tYrYtIB.jpg">
+  <img width="400" height=550" src="https://i.imgur.com/tYrYtIB.jpg">
 </p>
