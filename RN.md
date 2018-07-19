@@ -31,7 +31,7 @@ Genomic selection on four field traits of hybrid pearl millet published [online]
 Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotyping Conference and other two institutes in East China about high-throughput plant phenotyping. Hope can develop more in future.
 
 <p align="center">
-  <img width="300" height="400" src="https://i.imgur.com/R5x5552.jpg">
+  <img width="300" height="300" src="https://i.imgur.com/R5x5552.jpg">
 </p>
 
 <hr>
@@ -41,7 +41,7 @@ Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotypin
 Very glad to join the host of field Spider-cam phenotyping facilites visiting of David Han's group from China, who is a really nice person to know.
 
 <p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/A6jl0Bu.jpg">
+  <img width="300" height="400" src="https://i.imgur.com/A6jl0Bu.jpg">
 </p>
 
 <hr>
