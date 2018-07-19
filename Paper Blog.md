@@ -1,9 +1,8 @@
 ---
 title: Paper Blog
-permalink: /Paper Blog/
 ---
 
-### **Blog posts from the Zhikai**
+### **Blog posts from Zhikai**
 
 <div class="content list">
   {% for post in site.posts %}
