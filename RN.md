@@ -16,6 +16,16 @@ Completed two days root sampling for rhizosphere microbe study @[CRRI](https://c
 
 <hr>
 
+07-01-2018
+
+Genomic selection on four field traits of hybrid pearl millet published [online](http://www.g3journal.org/content/8/7/2513).
+
+<p align="center">
+  <img width="200" height="300" src="https://i.imgur.com/HIHnTcJ.jpg">
+</p>
+
+<hr>
+
 03-21-2018 to 03-27-2018
 
 Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotyping Conference and other two institutes in East China about high-throughput plant phenotyping. Hope can develop more in future.
