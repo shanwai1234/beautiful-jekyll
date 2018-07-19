@@ -36,6 +36,16 @@ Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotypin
 
 <hr>
 
+10-27-2017
+
+Very glad to join the host of field Spider-cam phenotyping facilites visiting of David Han's group from China, who is a really nice person to know.
+
+<p align="center">
+  <img width="300" height="300" src="https://i.imgur.com/A6jl0Bu.jpg">
+</p>
+
+<hr>
+
 03-2016
 
 First time to attend a professional conference and be proud to give my first time oral presentation in 58th maize genetics conference holden in Jacksonville, Florida. Regretably I am hidden in front of my slides ...
