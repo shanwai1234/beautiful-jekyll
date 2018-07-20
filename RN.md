@@ -42,13 +42,15 @@ Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled w
 
 <hr>
 
-10-27-2017
+10-2017
 
-Very glad to join the host of field Spider-cam phenotyping facilites visiting with David Han's group from China, who is a really nice person to know.
++ Very glad to join the host of field Spider-cam phenotyping facilites visiting with David Han's group from China, who is a really nice person to know.
 
 <p align="center">
   <img width="300" height="400" src="https://i.imgur.com/A6jl0Bu.jpg">
 </p>
+
++ Presented my published [**GigaScience** paper](https://academic.oup.com/gigascience/article/7/2/gix117/4656251) for discovering maize high-throughput phenotyping data from automatic greenhouse in PSI annual report.
 
 <hr>
 
