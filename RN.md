@@ -46,6 +46,16 @@ Very glad to join the host of field Spider-cam phenotyping facilites visiting wi
 
 <hr>
 
+04-2017
+
+My self constructed RNA-seq library were completed and sent out this month. It is a long journey to follow a 10-pages modified protocol to finish this work. But everything fortunately was made smoothly. Glad to see how domesticated and relative wild species performance on simulated high planting density conditions. 
+
+<p align="center">
+  <img width="300" height="300" src="https://i.imgur.com/RaSDgdy.jpg">
+</p>
+
+<hr>
+
 06-2016
 
 Farewell, Kyle! The REU student from BYU I mentored this summer for GWAS on image-based seed trait extractions of maize diversity panel. The guy also interested on learning multiple languages. 
