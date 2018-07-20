@@ -56,6 +56,12 @@ My self constructed RNA-seq library were completed and sent out this month. It i
 
 <hr>
 
+10-2016
+
+Had lunch with Prof. Michael Freeling, who is the major advisor of my advisor. He wanted to chanllenge something that he is not that good at after he made the super accomplishment in the academia. Yup, that is we always want to see ourself in mirror in order to make a better self. 
+
+<hr>
+
 06-2016
 
 Farewell, Kyle! The REU student from BYU I mentored this summer for GWAS on image-based seed trait extractions of maize diversity panel. The guy also interested on learning multiple languages. 
