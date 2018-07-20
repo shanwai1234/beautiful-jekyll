@@ -49,7 +49,7 @@ Very glad to join the host of field Spider-cam phenotyping facilites visiting of
 Farewell, Kyle! The REU student I mentored this summer for GWAS on image-based seed trait extractions of maize diversity panel. The guy also interested on learning multiple languages. 
 
 <p align="center">
-  <img width="400" height="250" src="https://i.imgur.com/SMMmaRV.jpg">
+  <img width="250" height="200" src="https://i.imgur.com/SMMmaRV.jpg">
 </p>
 
 <hr>
