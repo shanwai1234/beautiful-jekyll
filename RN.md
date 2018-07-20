@@ -36,6 +36,12 @@ Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotypin
 
 <hr>
 
+11-2017
+
+Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled with people listened to his talk with clear logic to link his researches to a full big story. Really appealing!
+
+<hr>
+
 10-27-2017
 
 Very glad to join the host of field Spider-cam phenotyping facilites visiting with David Han's group from China, who is a really nice person to know.
