@@ -34,7 +34,9 @@ Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotypin
 
 02-2018
 
-Passed my PhD candidancy exam, moved closer to get be a doctor !!
+Passed my PhD candidancy exam using a project on exploring response different to high-planting density between domesticated and wild species, moved closer to get be a doctor !!
+
+<hr>
 
 11-2017
 
