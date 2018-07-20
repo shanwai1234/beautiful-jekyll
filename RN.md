@@ -46,6 +46,14 @@ Very glad to join the host of field Spider-cam phenotyping facilites visiting of
 
 <hr>
 
+Farewell, Kyle! The REU student I mentored this summer for GWAS on image-based seed trait extractions of maize diversity panel. The guy also interested on learning multiple languages. 
+
+<p align="center">
+  <img width="300" height="400" src="https://i.imgur.com/SMMmaRV.jpg">
+</p>
+
+<hr>
+
 04-2016
 
 Using Lemnatec Automatic greenhouse system to estimate the water use efficiency of various species and varieties within each species. Sorghum and millets on right side apparently use water in a more efficient way than maize, valuable to dig in.
