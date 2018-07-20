@@ -14,8 +14,6 @@ News related to both research and Zhikai
   <img width="350" height="280" src="https://i.imgur.com/ZKtmvqB.jpg">
 </p>
 
-07-2018
-
 + Genomic selection on four field traits of hybrid pearl millet published [online](http://www.g3journal.org/content/8/7/2513). Just got acceptance after 1 month submission, thank you G3 journal for this super fast decision!!
 
 <p align="center">
