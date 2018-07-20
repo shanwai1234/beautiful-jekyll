@@ -80,17 +80,13 @@ Had lunch with Prof. Michael Freeling, who is the major advisor of my advisor. H
 
 08-2016
 
-Rescued 10-years root hairless mutant and planted to grow and we will harvest thousands of mutant seeds later.
++ Rescued 10-years root hairless mutant and planted to grow and we will harvest thousands of mutant seeds later.
 
 <p align="center">
   <img width="250" height="200" src="https://i.imgur.com/jj1hWmQ.jpg">
 </p>
 
-<hr>
-
-06-2016
-
-Farewell, Kyle! The REU student from BYU I mentored this summer for GWAS on image-based seed trait extractions of maize diversity panel. The guy also interested on learning multiple languages. 
++ Farewell, Kyle! The REU student from BYU I mentored this summer for GWAS on image-based seed trait extractions of maize diversity panel. The guy also interested on learning multiple languages. 
 
 <p align="center">
   <img width="250" height="200" src="https://i.imgur.com/SMMmaRV.jpg">
