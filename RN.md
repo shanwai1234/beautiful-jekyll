@@ -53,13 +53,14 @@ Very glad to join the host of field Spider-cam phenotyping facilites visiting wi
 <hr>
 
 04-2017
-*Hosted the visit of pearl millet breeder SK Gupta from ICRISAT with graduate student lunch and discussed with my ongoing pearl millet hybrid genomic selection project.
+
++ Hosted the visit of pearl millet breeder SK Gupta from ICRISAT with graduate student lunch and discussed with my ongoing pearl millet hybrid genomic selection project.
 
 <p align="center">
-  <img width="300" height="400" src="https://i.imgur.com/zT1lSvK.jpg">
+  <img width="300" height="250" src="https://i.imgur.com/zT1lSvK.jpg">
 </p>
 
-*My self constructed RNA-seq library were completed and sent out this month. It is a long journey to follow a 10-pages modified protocol to finish this work. But everything fortunately was made smoothly. Glad to see how domesticated and relative wild species performance on simulated high planting density conditions. 
++ My self constructed RNA-seq library were completed and sent out this month. It is a long journey to follow a 10-pages modified protocol to finish this work. But everything fortunately was made smoothly. Glad to see how domesticated and relative wild species performance on simulated high planting density conditions. 
 
 <p align="center">
   <img width="300" height="300" src="https://i.imgur.com/RaSDgdy.jpg">
