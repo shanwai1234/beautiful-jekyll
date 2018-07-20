@@ -38,6 +38,16 @@ Passed my PhD candidancy exam using a project on exploring response different to
 
 <hr>
 
+01-2018
+
+Joined 2018 Genomes-to-fields collaborator meeting in Ames, and also be honor to visit DuPontPioneer in Johnson. Scientists are trying various ways on making corn better. 
+
+<p align="center">
+  <img width="300" height="300" src="https://i.imgur.com/oNakoL8.jpg">
+</p>
+
+<hr>
+
 11-2017
 
 Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled with people listened to his talk with clear logic to link his researches to a full big story. Really appealing!
