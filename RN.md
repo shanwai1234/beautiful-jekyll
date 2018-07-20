@@ -43,7 +43,7 @@ Passed my PhD candidancy exam using a project on exploring response different to
 Joined 2018 Genomes-to-fields collaborator meeting in Ames, and also be honor to visit DuPontPioneer in Johnson. Scientists are trying various ways on making corn better. 
 
 <p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/oNakoL8.jpg">
+  <img width="300" height="280" src="https://i.imgur.com/oNakoL8.jpg">
 </p>
 
 <hr>
