@@ -38,7 +38,7 @@ Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotypin
 
 10-27-2017
 
-Very glad to join the host of field Spider-cam phenotyping facilites visiting of David Han's group from China, who is a really nice person to know.
+Very glad to join the host of field Spider-cam phenotyping facilites visiting with David Han's group from China, who is a really nice person to know.
 
 <p align="center">
   <img width="300" height="400" src="https://i.imgur.com/A6jl0Bu.jpg">
