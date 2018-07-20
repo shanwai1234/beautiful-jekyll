@@ -32,6 +32,10 @@ Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotypin
 
 <hr>
 
+02-2018
+
+Passed my PhD candidancy exam, moved closer to get be a doctor !!
+
 11-2017
 
 Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled with people listened to his talk with clear logic to link his researches to a full big story. Really appealing!
