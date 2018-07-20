@@ -111,7 +111,7 @@ Using Lemnatec Automatic greenhouse system to estimate the water use efficiency 
 
 03-2016
 
-First time to attend a professional conference and be proud to give my first time oral presentation in 58th maize genetics conference holden in Jacksonville, Florida. My very first author paper's link in [here](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157942). Regretably I am hidden in front of my slides ...
+First time to attend a professional conference and be proud to give my first time oral presentation in 58th maize genetics conference holden in Jacksonville, Florida. My very first author paper's link related to this topic is [here](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0157942). Regretably I am hidden in front of my slides ...
 
 <p align="center">
   <img width="200" height="300" src="https://i.imgur.com/tYrYtIB.jpg">
