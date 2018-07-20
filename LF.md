@@ -15,3 +15,9 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
   <img width="220" height="280" src="https://i.imgur.com/PDeCKkb.jpg">
 </p>
 
+* Pushed Jinliang's car from a muddy field, how poor the car is.
+
+<p align="center">
+  <img width="220" height="280" src="https://i.imgur.com/IIXthxt.jpg">
+</p>
+
