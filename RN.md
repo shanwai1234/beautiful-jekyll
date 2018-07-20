@@ -57,6 +57,11 @@ Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled w
 <hr>
 
 04-2017
++ My mentored undergraduate student Thomas Hoban had his first presentation in spring research fair about sorghum roothairless mutant screening. 
+
+<p align="center">
+  <img width="300" height="250" src="https://i.imgur.com/Cs8Yrq4.png">
+</p>
 
 + Hosted the visit of pearl millet breeder SK Gupta from ICRISAT with graduate student lunch and discussed with my ongoing pearl millet hybrid genomic selection project.
 
