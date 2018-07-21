@@ -124,7 +124,7 @@ Sent out my 500 leaf samples of hybrid corns out to Danforth Center for measurin
 Completed sorghum diversity panel field work this summer, sampled, phenotype measured and seeds harvested !! Figured out to use tablet to record phenotype data in field study.
 
 <p align="center">
-  <img width="250" height="200" src="https://i.imgur.com/SMMmaRV.jpg">
+  <img width="250" height="200" src="https://i.imgur.com/yVXawHt.jpg">
 </p>
 
 <hr>
