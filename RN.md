@@ -66,6 +66,16 @@ Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled w
 
 <hr>
 
+07-2017
+
+Joined the MidWest Big Data Summer School in Iowa State and felt great to visit [Prof. Patrick Schnable's Lab](https://schnablelab.plantgenomics.iastate.edu). 
+
+<p align="center">
+  <img width="300" height="400" src="https://i.imgur.com/tWWSDFp.jpg">
+</p>
+
+<hr>
+
 04-2017
 + My mentored undergraduate student Thomas Hoban had his first presentation in spring research fair about sorghum roothairless mutant screening. 
 
