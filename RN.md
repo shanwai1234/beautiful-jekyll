@@ -95,10 +95,10 @@ Had lunch with Prof. Michael Freeling, who is the major advisor of my advisor. H
 
 09-2016
 
-Sent out my 500 leaf samples of hybrid corns out to Danforth Center for measuring ionomic data. 
+Sent out my 500 leaf samples of hybrid corns out to Danforth Center for measuring ionomic data just after they run out experiment from automatic greenhouse.  
 
 <p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/koxDTu2.jpg">
+  <img width="300" height="250" src="https://i.imgur.com/koxDTu2.jpg">
 </p>
 
 <hr>
