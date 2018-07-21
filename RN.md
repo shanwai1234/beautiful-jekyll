@@ -201,10 +201,16 @@ Finished the report of Popcorn population study before Winter Holiday. Landed on
 
 11-2015
 
-Started to record plant growthes of 6 selected grass species. Excited to see plant growth in time lapse and leaf extension !!!
++ Started to record plant growthes of 6 selected grass species. Excited to see plant growth in time lapse and leaf extension !!!
 
 <p align="center">
   <img width="300" height="200" src="https://i.imgur.com/djj6pLI.png">
+</p>
+
++ The very first phenotyping experiment on a small maize population including public and private sectors completed this month. I used raw data generated from this system to test its stability as well as settings when operating this system.  
+
+<p align="center">
+  <img width="300" height="200" src="https://i.imgur.com/29eYQq3.png">
 </p>
 
 <hr>
