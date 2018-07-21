@@ -72,6 +72,16 @@ Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled w
 
 <hr>
 
+08-2017
+
+Was tagged in Nebraska Food For Health Center's project to link sorghum researches to huamn health. 
+
+<p align="center">
+  <img width="300" height="280" src="https://i.imgur.com/s6T4gtA.png">
+</p>
+
+<hr>
+
 07-2017
 
 Joined the MidWest Big Data Summer School in Iowa State and felt great to visit [Prof. Patrick Schnable's Lab](https://schnablelab.plantgenomics.iastate.edu) with advanced technologies on both genotyping and phenotyping. 
