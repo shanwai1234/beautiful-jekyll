@@ -87,6 +87,12 @@ Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled w
 
 <hr>
 
+03-2017
+
+Attended 59th maize genetics conference in St. Louis, MO. Presented my lastest methods on phenotype extraction from high-throughput image data in the conference.
+
+<hr>
+
 10-2016
 
 Had lunch with Prof. Michael Freeling, who is the major advisor of my advisor. He wanted to chanllenge something that he is not that good at after he made the super accomplishment in the academia. Yup, that is we always want to see ourself in mirror in order to make a better self. 
