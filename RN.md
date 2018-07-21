@@ -22,6 +22,12 @@ News related to both research and Zhikai
 
 <hr>
 
+06-2018
+
+Thank to my friend to put me on their 2018 [school admission brochure](https://mp.weixin.qq.com/s/N0ETD3vfmZSZWtUL29QLcw) of Agriculural College in Nanjing Agriculture University in China. 
+
+<hr>
+
 03-21-2018 to 03-27-2018
 
 Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotyping Conference and other two institutes in East China about high-throughput plant phenotyping. Hope can develop more in future.
