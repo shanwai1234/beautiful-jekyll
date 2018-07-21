@@ -154,3 +154,9 @@ Started to record plant growthes of 6 selected grass species. Excited to see pla
 <p align="center">
   <img width="300" height="200" src="https://i.imgur.com/djj6pLI.png">
 </p>
+
+06-2015
+
+Transit from bench work to computer work and it is the first wet lab experiment I did in Schnable Lab. Data collection is a
+first step, modified a large-scale DNA extraction methods, and successfully extracted large amount of DNA for Paspalum,
+Dichanthelium and Urochloa. 
