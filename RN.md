@@ -152,5 +152,5 @@ First time to attend a professional conference and be proud to give my first tim
 Started to record plant growthes of 6 selected grass species. Excited to see plant growth in time lapse and leaf extension !!!
 
 <p align="center">
-  <img width="200" height="300" src="https://i.imgur.com/djj6pLI.png">
+  <img width="300" height="200" src="https://i.imgur.com/djj6pLI.png">
 </p>
