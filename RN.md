@@ -93,6 +93,16 @@ Had lunch with Prof. Michael Freeling, who is the major advisor of my advisor. H
 
 <hr>
 
+09-2016
+
+Sent out my 500 leaf samples of hybrid corns out to Danforth Center for measuring ionomic data. 
+
+<p align="center">
+  <img width="300" height="300" src="https://i.imgur.com/koxDTu2.jpg">
+</p>
+
+<hr>
+
 08-2016
 
 + Rescued 10-years root hairless mutant and planted to grow and we will harvest thousands of mutant seeds later.
