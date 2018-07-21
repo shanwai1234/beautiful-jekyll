@@ -119,6 +119,16 @@ Sent out my 500 leaf samples of hybrid corns out to Danforth Center for measurin
 
 <hr>
 
+07-2016
+
+Completed sorghum diversity panel field work this summer, sampled, phenotype measured and seeds harvested !! Figured out to use tablet to record phenotype data in field study.
+
+<p align="center">
+  <img width="250" height="200" src="https://i.imgur.com/SMMmaRV.jpg">
+</p>
+
+<hr>
+
 04-2016
 
 Using Lemnatec Automatic greenhouse system to estimate the water use efficiency of various species and varieties within each species. Sorghum and millets on right side apparently use water in a more efficient way than maize, valuable to dig in.
@@ -135,4 +145,12 @@ First time to attend a professional conference and be proud to give my first tim
 
 <p align="center">
   <img width="200" height="300" src="https://i.imgur.com/tYrYtIB.jpg">
+</p>
+
+11-2015
+
+Started to record plant growthes of 6 selected grass species. Excited to see plant growth in time lapse and leaf extension !!!
+
+<p align="center">
+  <img width="200" height="300" src="https://i.imgur.com/djj6pLI.png">
 </p>
