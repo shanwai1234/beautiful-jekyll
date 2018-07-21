@@ -71,7 +71,7 @@ Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled w
 Joined the MidWest Big Data Summer School in Iowa State and felt great to visit [Prof. Patrick Schnable's Lab](https://schnablelab.plantgenomics.iastate.edu) with advanced technologies on both genotyping and phenotyping. 
 
 <p align="center">
-  <img width="280" height="300" src="https://i.imgur.com/tWWSDFp.jpg">
+  <img width="250" height="300" src="https://i.imgur.com/tWWSDFp.jpg">
 </p>
 
 <hr>
