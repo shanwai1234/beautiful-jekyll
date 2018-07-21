@@ -153,6 +153,10 @@ First time to attend a professional conference and be proud to give my first tim
   <img width="200" height="300" src="https://i.imgur.com/tYrYtIB.jpg">
 </p>
 
+12-2015
+
+Finished the report of Popcorn population study before Winter Holiday. Landed on a new world that I haven't touched before.
+
 11-2015
 
 Started to record plant growthes of 6 selected grass species. Excited to see plant growth in time lapse and leaf extension !!!
