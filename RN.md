@@ -149,6 +149,12 @@ Sent out my 500 leaf samples of hybrid corns out to Danforth Center for measurin
   <img width="250" height="200" src="https://i.imgur.com/SMMmaRV.jpg">
 </p>
 
++ Joined Purdue Plant Science Symposium, and presented our idea on tracking individual leaf extension from high-throughput images. 
+
+<p align="center">
+  <img width="250" height="200" src="https://i.imgur.com/qBN3p4q.jpg">
+</p>
+
 <hr>
 
 07-2016
