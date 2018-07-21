@@ -89,7 +89,7 @@ Joined the MidWest Big Data Summer School in Iowa State and felt great to visit 
   <img width="300" height="250" src="https://i.imgur.com/Cs8Yrq4.png?1">
 </p>
 
-+ Hosted the visit of pearl millet breeder SK Gupta from ICRISAT with graduate student lunch and discussed with my ongoing pearl millet hybrid genomic selection project.
++ Hosted the visit of pearl millet breeder SK Gupta from ICRISAT in India with graduate student lunch and discussed with my ongoing pearl millet hybrid genomic selection project.
 
 <p align="center">
   <img width="300" height="250" src="https://i.imgur.com/zT1lSvK.jpg">
