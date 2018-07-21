@@ -74,7 +74,7 @@ Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled w
 
 08-2017
 
-Was tagged in Nebraska Food For Health Center's project to link sorghum researches to huamn health. 
+Was tagged in Nebraska Food For Health Center's project to link sorghum researches to human health. 
 
 <p align="center">
   <img width="360" height="280" src="https://i.imgur.com/s6T4gtA.png">
