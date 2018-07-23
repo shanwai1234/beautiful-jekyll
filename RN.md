@@ -204,7 +204,7 @@ First time to attend a professional conference and be proud to give my first tim
 Finished the report of Popcorn population study before Winter Holiday. Landed on a new world that I haven't touched before.
 
 <p align="center">
-  <img width="200" height="300" src="https://i.imgur.com/QlgjIdl.jpg">
+  <img width="200" height="200" src="https://i.imgur.com/QlgjIdl.jpg">
 </p>
 
 <hr>
