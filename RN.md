@@ -54,6 +54,12 @@ Joined 2018 Genomes-to-fields collaborator meeting in Ames, and also be honor to
 
 <hr>
 
+12-2017
+
+My [review paper](https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30380-5) on subgenome dominance is accepted !! Enriched a lot of new knowledge on plant genomic area from evolutionary side, that will be helpful for boarding my researches in future.  
+
+<hr>
+
 11-2017
 
 Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled with people listened to his talk with clear logic to link his researches to a full big story. Really appealing!
