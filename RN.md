@@ -7,6 +7,7 @@ News related to both research and Zhikai
 <hr>
 
 07-2018
++ Tool for calculating Ka-Ks per gene ([grass-kaks](https://github.com/shanwai1234/Grass-KaKs)) is just initially completed.
 
 + Completed two days root sampling for rhizosphere microbe study @[CRRI](https://crri.unl.edu/home)!! 
 
