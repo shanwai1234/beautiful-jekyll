@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CNS-Discovery
-subtitle: STAG-CNS: An Order-Aware Conserved Noncoding Sequences Discovery Tool for Arbitrary Numbers of Species
+subtitle: An Order-Aware Conserved Noncoding Sequences Discovery Tool for Arbitrary Numbers of Species
 ---
 
 This is my very first author paper published in my academic life. From few knowledge about coding and python to get much practice from this project, many thanks to my major advisor Dr. James Schnable. I started on the way of learning computational biology and inspiring new ideas on projects.
