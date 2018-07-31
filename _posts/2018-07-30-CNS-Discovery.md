@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CNS discovery methods upon multiple grass species
+title: CNS-Discovery
 subtitle: STAG-CNS: An Order-Aware Conserved Noncoding Sequences Discovery Tool for Arbitrary Numbers of Species
 ---
 
