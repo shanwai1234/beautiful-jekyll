@@ -7,5 +7,5 @@ subtitle: STAG-CNS: An Order-Aware Conserved Noncoding Sequences Discovery Tool 
 Conserved Non-coding Sequences (CNSs) are small elements that involved in regulating transcription. From evolutionary side, they are inherited with slow substitution and remain its functional role in surrounding regions of conserved genes. In grass species, this developped methods ([STAG-CNS: An Order-Aware Conserved Noncoding Sequences Discovery Tool for Arbitrary Numbers of Species](https://www.cell.com/action/showPdf?pii=S1674-2052%2817%2930166-1)) described an arbitrary way to identify potential regulation elements. Different from a previous double species discovery methods, this methods can feed up to 6 species with defined size of nucleotide sequences to identify potential more positive and functional CNS elements along genome. 
 
 <p align="center">
-  <img width="500" height="400" src="https://i.imgur.com/CrEj6TG.png">
+  <img width="400" height="600" src="https://i.imgur.com/CrEj6TG.png">
 </p>
