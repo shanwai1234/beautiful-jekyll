@@ -9,6 +9,14 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
 
 <hr>
 
+* Lab first soccer game, pretty fun! Young people are always energetic.
+
+<p align="center">
+  <img width="300" height="250" src="https://i.imgur.com/iF5ZHUc.jpg">
+</p>
+
+<hr>
+
 * Played badminton with Lab REU student Chirstian, which sounds like his favorite sports game.
 
 <p align="center">
