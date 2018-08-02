@@ -12,7 +12,7 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
 * Lab first soccer game, pretty fun! Young people are always energetic.
 
 <p align="center">
-  <img width="300" height="200" src="https://i.imgur.com/iF5ZHUc.jpg">
+  <img width="300" height="220" src="https://i.imgur.com/iF5ZHUc.jpg">
 </p>
 
 <hr>
