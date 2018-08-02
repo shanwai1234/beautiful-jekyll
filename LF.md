@@ -15,8 +15,6 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
   <img width="300" height="220" src="https://i.imgur.com/iF5ZHUc.jpg">
 </p>
 
-<hr>
-
 * Played badminton with Lab REU student Chirstian, which sounds like his favorite sports game.
 
 <p align="center">
