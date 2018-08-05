@@ -9,7 +9,7 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
 
 <hr>
 
-* Caught the first fish in my life, after dozens of fishing
+* Caught the first fish in my life, after dozens of fishing in US.
 
 <p align="center">
   <img width="200" height="250" src="https://i.imgur.com/dFFHknR.jpg">
