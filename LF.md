@@ -11,7 +11,7 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
 * Caught the first fish in my life, after dozens of fishing
 
 <p align="center">
-  <img width="350" height="250" src="https://i.imgur.com/dFFHknR.jpg">
+  <img width="200" height="250" src="https://i.imgur.com/dFFHknR.jpg">
 </p>
 
 * Lab first soccer game, pretty fun! Young people are always energetic.
