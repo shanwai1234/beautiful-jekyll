@@ -8,6 +8,7 @@ bigimg: /img/PB.jpg
 Trying to record wonderful, unforgettable, meaningful, interesting moment in daily life.
 
 <hr>
+
 * 6 years link with Mississippi, 2 days driving and endless memory to precious time in my life.
 
 <p align="center">
