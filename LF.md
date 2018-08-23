@@ -11,7 +11,7 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
 * 6 years link with Mississippi, 2 days driving and endless memory to precious time in my life.
 
 <p align="center">
-  <img width="200" height="250" src="https://i.imgur.com/JRNmcX0.jpg">
+  <img width="240" height="300" src="https://i.imgur.com/JRNmcX0.jpg">
 </p>
 
 * Caught the first fish in my life, after dozens of fishing in US.
