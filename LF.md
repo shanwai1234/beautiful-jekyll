@@ -12,7 +12,7 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
 * Happy 2018 mid-autumn festival !!
 
 <p align="center">
-  <img width="240" height="300" src="https://i.imgur.com/PFgqqjZ.jpg">
+  <img width="260" height="260" src="https://i.imgur.com/PFgqqjZ.jpg">
 </p>
 
 * 6 years link with Mississippi, 2 days driving and endless memory to precious time in my life.
