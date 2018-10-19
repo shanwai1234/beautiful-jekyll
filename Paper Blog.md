@@ -1,5 +1,5 @@
 ---
-title: Paper Blog
+title: Blog
 ---
 
 ### **Blog posts from Zhikai**
