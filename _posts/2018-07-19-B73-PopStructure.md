@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B73 population structure
+title: (Paper) B73 population structure
 subtitle: RNA-Seq Based Analysis of Population Structure within the Maize Inbred B73
 ---
 
