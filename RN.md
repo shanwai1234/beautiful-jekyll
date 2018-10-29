@@ -6,6 +6,11 @@ News related to both research and Zhikai
 
 <hr>
 
+10-2018
++ The second time joined the Plant Science Innovation retreat, the advent of big data is coming. High-throughput phenotyping, microbiomes, RNA-seq and metabolite data are being generated. Intriguingly seeing how to couple these data to generate interesting stories.     
+
+<hr>
+
 07-2018
 + Tool for calculating Ka-Ks per gene ([grass-kaks](https://github.com/shanwai1234/Grass-KaKs)) is just initially completed.
 
