@@ -7,6 +7,8 @@ News related to both research and Zhikai
 <hr>
 
 10-2018
++ It's awesome to attend Dr. Sanzhen Liu's talk. Great work on candidate pathogen resistance gene selection and mini-chromosomes characterization on strains!
+
 + The second time joined the Plant Science Innovation retreat, the advent of big data is coming. High-throughput phenotyping, microbiomes, RNA-seq and metabolite data are being generated. Intriguingly seeing how to couple these data to generate interesting stories.     
 
 <hr>
