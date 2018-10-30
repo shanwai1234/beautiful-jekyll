@@ -11,19 +11,19 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
 * Incredible weather to experience summer, winter and autumn in two weeks.
 
 <p align="center">
-  <img width="280" height="260" src="https://i.imgur.com/3YfLvqI.jpg">
+  <img width="280" height="230" src="https://i.imgur.com/3YfLvqI.jpg">
 </p>
 
 * First time to be in Washington D.C
 
 <p align="center">
-  <img width="280" height="260" src="https://i.imgur.com/2vMwj27.jpg">
+  <img width="280" height="250" src="https://i.imgur.com/2vMwj27.jpg">
 </p>
 
 * Happy 2018 mid-autumn festival !!
 
 <p align="center">
-  <img width="280" height="260" src="https://i.imgur.com/PFgqqjZ.jpg">
+  <img width="280" height="240" src="https://i.imgur.com/PFgqqjZ.jpg">
 </p>
 
 * 6 years link with Mississippi, 2 days driving and endless memory to precious time in my life.
