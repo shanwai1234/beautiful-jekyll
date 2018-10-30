@@ -8,6 +8,17 @@ bigimg: /img/PB.jpg
 Trying to record wonderful, unforgettable, meaningful, interesting moment in daily life.
 
 <hr>
+* Incredible weather to experience summer, winter and autumn in two weeks.
+
+<p align="center">
+  <img width="280" height="260" src="https://i.imgur.com/2vMwj27.jpg">
+</p>
+
+* First time to be in Washington D.C
+
+<p align="center">
+  <img width="280" height="260" src="https://i.imgur.com/3YfLvqI.jpg">
+</p>
 
 * Happy 2018 mid-autumn festival !!
 
