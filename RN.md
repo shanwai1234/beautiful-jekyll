@@ -7,6 +7,8 @@ News related to both research and Zhikai
 <hr>
 
 10-2018
++ Great honor to have lunch with Dr. Steve Briggs. Not only his researches, but also plentiful advise on job hunting, performance in academia and lab management. 
+
 + It's awesome to attend Dr. Sanzhen Liu's talk. Great work on candidate pathogen resistance gene selection and mini-chromosomes characterization on pathogenic strains!
 
 + The second time joined the Plant Science Innovation retreat, the advent of big data is coming. High-throughput phenotyping, microbiomes, RNA-seq and metabolite data are being generated. Intriguingly seeing how to couple these data to generate interesting stories.     
