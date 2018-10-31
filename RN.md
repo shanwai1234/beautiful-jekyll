@@ -7,7 +7,7 @@ News related to both research and Zhikai
 <hr>
 
 10-2018
-+ Great honor to have lunch with Dr. Steve Briggs. Not only his researches, but also plentiful advise on job hunting, performance in academia and lab management. 
++ Great honor to have lunch with Dr. Steve Briggs. Not only his researches, but also plentiful advise on job hunting, performance in academia and lab management impressed me a lot.
 
 + It's awesome to attend Dr. Sanzhen Liu's talk. Great work on candidate pathogen resistance gene selection and mini-chromosomes characterization on pathogenic strains!
 
