@@ -8,6 +8,12 @@ bigimg: /img/PB.jpg
 Trying to record wonderful, unforgettable, meaningful, interesting moment in daily life.
 
 <hr>
+* Sweet weather of Seattle in the end of 2018.
+
+<p align="center">
+  <img width="280" height="230" src="https://i.imgur.com/GZsjDP0.jpg">
+</p>
+
 * Incredible weather to experience summer, winter and autumn in two weeks.
 
 <p align="center">
