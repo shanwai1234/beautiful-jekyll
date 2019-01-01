@@ -6,6 +6,11 @@ News related to both research and Zhikai
 
 <hr>
 
+12-2018
++ Finished all of my officially registered classes during my education life with satisfied grades.
+
+<hr>
+
 10-2018
 + Great honor to have lunch with Dr. Steve Briggs. Not only his researches, but also plentiful advise on job hunting, performance in academia and lab management impressed me a lot.
 
