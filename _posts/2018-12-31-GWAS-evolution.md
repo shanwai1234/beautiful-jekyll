@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Paper) Linking GWAS witstudyh evolutionary 
+title: (Paper) Linking GWAS with evolutionary study
 subtitle: What can genome-wide association studies tell us about the evolutionary forces maintaining genetic variation for quantitative traits
 ---
 
