@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Paper) HTP for UAV data extraction
+title: (Paper) HTP and UAV data extraction
 subtitle: High-Throughput Phenotyping of Canopy Cover and Senescence in Maize Field Trials Using Aerial Digital Canopy Imaging
 ---
 
