@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Paper) Deep learning tools for plant scientists
+title: (Paper) Deep learning tool for plant scientists
 subtitle: Deep Plant Phenomics: A Deep Learning Platform for Complex Plant Phenotyping Tasks
 ---
 
