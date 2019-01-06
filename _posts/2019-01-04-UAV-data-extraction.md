@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (Paper) HTP and UAV data extraction
-subtitle: Deep Plant Phenomics: A Deep Learning Platform for Complex Plant Phenotyping Tasks
+subtitle: Deep Plant Phenomics A Deep Learning Platform for Complex Plant Phenotyping Tasks
 ---
 
 [**Deep Plant Phenomics A Deep Learning Platform for Complex Plant Phenotyping Tasks**](https://www.frontiersin.org/articles/10.3389/fpls.2017.01190/full). 
