@@ -1,13 +1,13 @@
 ---
 layout: post
-title: (Paper) Deep learning tool for plant scientists
-subtitle: Deep Plant Phenomics: A Deep Learning Platform for Complex Plant Phenotyping Tasks
+title: (Paper) HTP and UAV data extraction
+subtitle: High-Throughput Phenotyping of Canopy Cover and Senescence in Maize Field Trials Using Aerial Digital Canopy Imaging
 ---
 
-[**Deep Plant Phenomics: A Deep Learning Platform for Complex Plant Phenotyping Tasks**](https://www.frontiersin.org/articles/10.3389/fpls.2017.01190/full). 
+[**High-Throughput Phenotyping of Canopy Cover and Senescence in Maize Field Trials Using Aerial Digital Canopy Imagings**](https://www.mdpi.com/2072-4292/10/2/330/htm). 
 
-Deep learning (DL) tends to be widely applied in high-throughput imaging analysis. Its comprehensively application on image classification and prediction. However, general frameworks based on python package of TensorFlow have been few reported. It suggests more adjustments on frameworks are needed. This paper proposed, validated and integrated a framework of Google's open-source Tensorflow computational library for high-throughput imaging. The software is much more friendly used and convenient. Its application on projects like leaf counting, age regression, and plant classification.
+Extracting numeric values in HTP is one of most chanllenging parts. UAV is gradually being applied in applied agricultural production, due to its convenience and high-throughput features. However, it is not easy to justify two-plot as one genotype in the field. But it is important to extract precise values from two-plot for downstream analysis like GWAS to discover potential links genes with the targeted trait. This paper proposes a promising strategy for accomplishing this. But it is unknown for its application on diverse data sets from multiple crop species.  
 
 <p align="center">
-  <img width="400" height="250" src="https://i.imgur.com/9vKDPg3.png">
+  <img width="400" height="250" src="https://i.imgur.com/g68BTUl.png">
 </p>
