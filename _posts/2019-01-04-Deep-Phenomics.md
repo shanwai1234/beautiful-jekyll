@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Paper) HTP and UAV data extraction
+title: (Paper) Deep learning tool for biologist
 subtitle: Deep Plant Phenomics A Deep Learning Platform for Complex Plant Phenotyping Tasks
 ---
 
