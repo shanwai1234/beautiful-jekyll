@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (Paper) Phenomic Selection
-subtitle: Phenomic Selection Is a Low-Cost and High-Throughput Method Based on Indirect Predictions: Proof of Concept on Wheat and Poplar
+subtitle: Phenomic Selection Is a Low-Cost and High-Throughput Method Based on Indirect Predictions - Proof of Concept on Wheat and Poplar
 ---
 
 [**Phenomic Selection Is a Low-Cost and High-Throughput Method Based on Indirect Predictions: Proof of Concept on Wheat and Poplar**](http://www.g3journal.org/content/8/12/3961). 
