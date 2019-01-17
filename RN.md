@@ -9,7 +9,7 @@ News related to both research and Zhikai
 + Attended my first PAG meeting, and presented my research on solving complexity of phenomic data using genomic data. The paper should come soon !!
 
 <p align="center">
-  <img width="250" height="280" src="https://i.imgur.com/yjC6ZjW.jpg">
+  <img width="200" height="280" src="https://i.imgur.com/yjC6ZjW.jpg">
 </p>
 
 <hr>
