@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Paper) LOF on identifying domesticated genes 
+title: (Paper)Identifying domesticated genes by LOF
 subtitle: Identification of candidate domestication-related genes with a systematic survey of loss-of-function mutations
 ---
 
