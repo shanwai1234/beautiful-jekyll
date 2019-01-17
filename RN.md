@@ -6,6 +6,7 @@ News related to both research and Zhikai
 
 <hr>
 01-2019
+
 Attended my first PAG meeting, and presented my research on solving complexity of phenomic data using genomic data. The paper should come soon !!
 
 <p align="center">
@@ -14,6 +15,7 @@ Attended my first PAG meeting, and presented my research on solving complexity o
 
 <hr>
 12-2018
+
 Finished all of my officially registered classes during my education life with satisfied grades.
 
 <hr>
