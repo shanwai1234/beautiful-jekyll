@@ -7,8 +7,9 @@ News related to both research and Zhikai
 <hr>
 
 01-2019
++ My GPWAS paper was posted in preprint server and this is one of my most interested works in my PhD. Integration of hundreds of phenotypes to investigate gene properties of maize from multiple perspectives, such as evolutionary features, expression and synteny analysis. Must be a potentially valuable guide for studies in other species with similar dataset of genomics and phenomics in upcoming decades. 
 
-Attended my first PAG meeting, and presented my research on solving complexity of phenomic data using genomic data. So many people expected to see the whole story and I believe the paper should come very soon !!
++ Attended my first PAG meeting, and presented my research on solving complexity of phenomic data using genomic data. So many people expected to see the whole story and I believe the paper should come very soon !!
 
 <p align="center">
   <img width="200" height="280" src="https://i.imgur.com/yjC6ZjW.jpg">
