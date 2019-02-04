@@ -5,6 +5,9 @@ title: Research News
 News related to both research and Zhikai
 
 <hr>
+Excited to be announced as a Plantae Fellow in Plantae 2019 Fellow Program and see my first post summary of paper in [here](https://plantae.org/what-were-reading-february-1st/)
+
+<hr>
 
 01-2019
 + My [GPWAS paper](https://www.biorxiv.org/content/10.1101/534503v2) was posted in preprint server and this is one of my most interested works in my PhD. Integration of hundreds of phenotypes to investigate gene properties of maize from multiple perspectives, such as evolutionary features, expression and synteny analysis. Must be a potentially valuable guide for studies in other species with similar dataset of genomics and phenomics in upcoming decades. 
