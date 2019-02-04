@@ -5,7 +5,7 @@ title: Research News
 News related to both research and Zhikai
 
 <hr>
-Excited to be announced as a Plantae Fellow in Plantae 2019 Fellow Program and see my first post summary of paper in [here](https://plantae.org/what-were-reading-february-1st/)
+Excited to be announced as a Plantae Fellow in Plantae 2019 Fellow Program and see my [first post summary](https://plantae.org/what-were-reading-february-1st/) of a deep-learning of phenotyping review paper.
 
 <hr>
 
