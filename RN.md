@@ -6,6 +6,7 @@ News related to both research and Zhikai
 
 <hr>
 02-2019
+
 + Announced to deliver an oral presentation in the 61st Maize Genetics Conference. 
 
 + Awarded the Larrick and Whitmore Graduate Student Travel for next month Maize Genetic Conference.
