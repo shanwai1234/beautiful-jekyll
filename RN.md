@@ -6,8 +6,11 @@ News related to both research and Zhikai
 
 <hr>
 02-2019
++ Announced to deliver an oral presentation in the 61st Maize Genetics Conference. 
 
-Excited to be announced as a Plantae Fellow in Plantae 2019 Fellow Program and see my [first post summary](https://plantae.org/what-were-reading-february-1st/) of a deep-learning of phenotyping review paper.
++ Awarded the Larrick and Whitmore Graduate Student Travel for next month Maize Genetic Conference.
+
++ Excited to be announced as a Plantae Fellow in Plantae 2019 Fellow Program and see my [first post summary](https://plantae.org/what-were-reading-february-1st/) of a deep-learning of phenotyping review paper.
 
 <hr>
 
