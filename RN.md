@@ -5,6 +5,12 @@ title: Research News
 News related to both research and Zhikai
 
 <hr>
+03-2019
+
++ Excited for my first trip to be in Donald Danforth Plant Science Center!
+
+<hr>
+
 02-2019
 
 + Announced to deliver an oral presentation in the 61st Maize Genetics Conference in St. Louis, Missouri.
