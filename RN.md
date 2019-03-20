@@ -8,6 +8,12 @@ News related to both research and Zhikai
 
 03-2019
 
++ I could not give more thanks to the steering committee for the opportunity of short talk in 61st Maize Genetics Conference in St. Louis. That is a wonderful event on the end of my PhD study. 
+
+<p align="center">
+  <img width="200" height="280" src="https://i.imgur.com/lgH1uug.jpg">
+</p>
+
 + Excited for my first trip to be in Donald Danforth Plant Science Center!
 
 <hr>
