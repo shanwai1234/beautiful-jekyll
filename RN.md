@@ -5,6 +5,11 @@ title: Research News
 News related to both research and Zhikai
 
 <hr>
+04-2019
+
++ First time to be in North Carolina, met with famous maize experts like Jim Holland. Excited to communicate with them about my latest research. 
+
+<hr>
 
 03-2019
 
