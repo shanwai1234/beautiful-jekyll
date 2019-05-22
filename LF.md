@@ -8,9 +8,8 @@ bigimg: /img/PB.jpg
 Trying to record wonderful, unforgettable, meaningful, interesting moment in daily life.
 
 <hr>
-Parents are here, it is the ideal life I like
+* Parents are here, it is the ideal life I like
 
-<hr>
 * Sweet weather of Seattle in the end of 2018.
 
 <p align="center">
