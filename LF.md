@@ -11,6 +11,7 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
 
 * Parents are here, it is the ideal life I like!
 
+* Started in 2019, busy trips from San Diego to St Louis, then Raleigh, then Athens. 
 
 * Sweet weather of Seattle in the end of 2018.
 
