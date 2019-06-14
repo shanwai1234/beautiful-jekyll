@@ -6,6 +6,13 @@ News related to both research and Zhikai
 
 06-2019
 
++ Successfully compiled the deep learning frame for DNA sequence level prediction using a test data!
+
+<p align="center">
+  <img width="200" height="180" src="https://i.imgur.com/KkBqDJZ.png">
+</p>
+
+
 + We began to start the planting in 2019 maize nursery field! 
 
 <p align="center">
