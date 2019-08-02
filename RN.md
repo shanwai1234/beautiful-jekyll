@@ -9,7 +9,7 @@ News related to both research and Zhikai
 Successfully completed my defense and became a doctor! Thank you all for your support in the past several years!
 
 <p align="center">
-  <img width="200" height="180" src="https://i.imgur.com/XxqK7Nc.jpg">
+  <img width="220" height="180" src="https://i.imgur.com/XxqK7Nc.jpg">
 </p>
 
 06-2019
