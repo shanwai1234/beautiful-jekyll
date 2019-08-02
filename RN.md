@@ -4,6 +4,14 @@ title: Research News
 
 News related to both research and Zhikai
 
+07-2019
+
+Successfully completed my defense and became a doctor! Thank you all for your support in the past several years!
+
+<p align="center">
+  <img width="200" height="180" src="https://i.imgur.com/XxqK7Nc.jpg">
+</p>
+
 06-2019
 
 + Successfully compiled the deep learning frame for DNA sequence level prediction using a test data!
