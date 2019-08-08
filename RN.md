@@ -4,6 +4,10 @@ title: Research News
 
 News related to both research and Zhikai
 
+08-2019
+
+Feel excited to give a presentation in [CGM](https://cgmonline.co/) about my GPWAS model, details about my presentation could be found in [here](https://www.youtube.com/watch?v=6I1VeP7tiwA&feature=youtu.be).
+
 07-2019
 
 Successfully completed my defense and became a doctor! Thank you all for your support in the past several years!
