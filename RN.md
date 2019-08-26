@@ -9,7 +9,7 @@ News related to both research and Zhikai
 + Hooded by Prof. James Schnable. I am official to be a doctor!
 
 <p align="center">
-  <img width="220" height="180" src="https://i.imgur.com/elqiYEo.jpg">
+  <img width="200" height="180" src="https://i.imgur.com/elqiYEo.jpg">
 </p>
 
 + Feel excited to give a presentation in [CGM](https://cgmonline.co/) about my GPWAS model, media about my presentation could be found in [YouTube](https://www.youtube.com/watch?v=6I1VeP7tiwA&feature=youtu.be).
