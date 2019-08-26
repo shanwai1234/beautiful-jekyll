@@ -12,7 +12,7 @@ News related to both research and Zhikai
   <img width="240" height="180" src="https://i.imgur.com/elqiYEo.jpg">
 </p>
 
-+ Feel excited to give a presentation in [CGM](https://cgmonline.co/) about my GPWAS model, media about my presentation could be found in [YouTube](https://www.youtube.com/watch?v=6I1VeP7tiwA&feature=youtu.be).
++ Feel excited to give a presentation in [CGM](https://cgmonline.co/) about my GPWAS model, media about my presentation could be found in [YouTube](https://www.youtube.com/watch?v=6I1VeP7tiwA&feature=youtu.be) and [Tencent](https://v.qq.com/x/page/e09137yapjh.html).
 
 07-2019
 
