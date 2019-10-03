@@ -3,6 +3,9 @@ title: Research News
 ---
 
 News related to both research and Zhikai
+09-2019
+
+Always learnt about from [Prof. Jianming Yu's](https://sites.google.com/site/quantitativegeneticsmaize/home) talk. I am really a fan of Prof. Jianming Yu's speech!
 
 08-2019
 
