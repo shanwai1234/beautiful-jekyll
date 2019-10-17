@@ -132,6 +132,10 @@ Traveled back China, gave three talks in both 2nd Asian-Pacific Plant Phenotypin
   <img width="300" height="300" src="https://i.imgur.com/R5x5552.jpg">
 </p>
 
+<p align="center">
+  <img width="500" height="300" src="https://i.imgur.com/Vk6DyW0.jpg">
+</p>
+
 <hr>
 
 02-2018
