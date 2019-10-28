@@ -235,7 +235,7 @@ Attended 59th maize genetics conference in St. Louis, MO. Presented my lastest m
 
 10-2016
 
-Had lunch with Prof. Michael Freeling, who is the major advisor of my advisor. He wanted to chanllenge something that he is not that good at after he made the super accomplishment in the academia. Yup, that is we always want to see ourself in mirror in order to make a better self. 
+Had lunch with [Prof. Michael Freeling](https://nature.berkeley.edu/freelinglab/), who is the major advisor of my advisor. He wanted to chanllenge something that he is not that good at after he made the super accomplishment in the academia. Yup, that is we always want to see ourself in mirror in order to make a better self. 
 
 <hr>
 
