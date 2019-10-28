@@ -6,7 +6,7 @@ News related to both research and Zhikai
 
 10-2019
 
-Last time for harvesting before I leave Lincoln. Feel pride to be a cornhusker!
+Last time for harvesting before I leave Lincoln. Feel proud to be a cornhusker!
 
 <p align="center">
   <img width="300" height="180" src="https://i.imgur.com/qxmQfFa.jpg">
