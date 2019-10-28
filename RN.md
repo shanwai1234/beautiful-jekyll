@@ -4,6 +4,14 @@ title: Research News
 
 News related to both research and Zhikai
 
+10-2019
+
+Last time for harvesting before I leave Lincoln. Feel pride to be a cornhusker!
+
+<p align="center">
+  <img width="240" height="180" src="https://i.imgur.com/qxmQfFa.jpg">
+</p>
+
 09-2019
 
 Had a lunch with [Prof. Jianming Yu's](https://sites.google.com/site/quantitativegeneticsmaize/home) and always learnt about from his talk. I am really a fan of Prof. Jianming Yu's speech!
