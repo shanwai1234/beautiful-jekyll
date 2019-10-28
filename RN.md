@@ -9,7 +9,7 @@ News related to both research and Zhikai
 Last time for harvesting before I leave Lincoln. Feel pride to be a cornhusker!
 
 <p align="center">
-  <img width="240" height="180" src="https://i.imgur.com/qxmQfFa.jpg">
+  <img width="300" height="180" src="https://i.imgur.com/qxmQfFa.jpg">
 </p>
 
 09-2019
