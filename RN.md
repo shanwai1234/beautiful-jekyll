@@ -101,9 +101,9 @@ Finished all of my officially registered classes during my education life with s
 <hr>
 
 10-2018
-+ Great honor to have lunch with Dr. Steve Briggs. Not only his researches, but also plentiful advise on job hunting, performance in academia and lab management impressed me a lot.
++ Great honor to have lunch with [Prof. Steve Briggs](http://briggs.ucsd.edu/index.html). Not only his researches, but also plentiful advise on job hunting, performance in academia and lab management impressed me a lot.
 
-+ It's awesome to attend Dr. Sanzhen Liu's talk. Great work on candidate pathogen resistance gene selection and mini-chromosomes characterization on pathogenic strains!
++ It's awesome to attend [Prof. Sanzhen Liu](https://plantgenomics.ksu.edu/liulab/)'s talk. Great work on candidate pathogen resistance gene selection and mini-chromosomes characterization on pathogenic strains!
 
 + The second time joined the Plant Science Innovation retreat, the advent of big data is coming. High-throughput phenotyping, microbiomes, RNA-seq and metabolite data are being generated. Intriguingly seeing how to couple these data to generate interesting stories.     
 
@@ -170,7 +170,7 @@ My [review paper](https://www.cell.com/molecular-plant/fulltext/S1674-2052(17)30
 
 11-2017
 
-Had lunch with Prof. Jeffrey Ross-Ibarra and joined his seminar. A room fulled with people listened to his talk with clear logic to link his researches to a full big story. Really appealing!
+Had lunch with [Prof. Jeffrey Ross-Ibarra](http://www.rilab.org/) and joined his seminar. A room fulled with people listened to his talk with clear logic to link his researches to a full big story. Really appealing!
 
 <hr>
 
