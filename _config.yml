@@ -27,6 +27,7 @@ navbar-links:
   Blog: "Blog"
   Life: "LF"
   Resources:
+    - Springer Lab@UMN: "https://maizeumn.github.io/"
     - Schnable Lab@UNL: "http://www.schnablelab.org/"
     - MaizeGDB: "http://www.maizegdb.org/"
     - Phenotyping Network: "https://www.plant-phenotyping.org/"
