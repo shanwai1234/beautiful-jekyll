@@ -4,6 +4,14 @@ title: Research News
 
 News related to both research and Zhikai
 
+11-2019
+
+Left the place I worked four and half years where I grew up and gained knowledge. Very appreciate Prof. James Schnable, who is the person providing me so much support during my PhD. And I am looking forwards to starting my new journey in [Prof. Nathan Springer's](https://maizeumn.github.io) lab. 
+
+<p align="center">
+  <img width="200" height="180" src="https://i.imgur.com/FrC0sVE.jpg">
+</p>
+
 10-2019
 
 Last time for harvesting before I leave Lincoln. Feel proud to be a cornhusker!
