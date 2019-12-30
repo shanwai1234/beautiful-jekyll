@@ -9,7 +9,7 @@ News related to both research and Zhikai
 Heading to the start of Mississippi River with all members in Springer's lab. So cold, but so much fun!
 
 <p align="center">
-  <img width="200" height="180" src="https://i.imgur.com/w4y7DsJ.png">
+  <img width="200" height="150" src="https://i.imgur.com/w4y7DsJ.png">
 </p>
 
 11-2019
