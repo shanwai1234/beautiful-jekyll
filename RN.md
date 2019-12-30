@@ -27,7 +27,7 @@ Heading to the start of Mississippi River with all members in Springer's lab. So
 Last time for harvesting before I leave Lincoln. Feel proud to be a cornhusker!
 
 <p align="center">
-  <img width="300" height="180" src="https://i.imgur.com/qxmQfFa.jpg">
+  <img width="300" height="150" src="https://i.imgur.com/qxmQfFa.jpg">
 </p>
 
 09-2019
