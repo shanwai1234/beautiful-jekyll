@@ -4,6 +4,10 @@ title: Research News
 
 News related to both research and Zhikai
 
+03-2020
+
+One of my main projects during my PhD is published in [Molecular Plant](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30065-4#articleInformation) and online!
+
 12-2019
 
 Heading to the start of Mississippi River with all members in Springer's lab. So cold, but so much fun!
