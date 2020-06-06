@@ -6,7 +6,7 @@ News related to both research and Zhikai
 
 05-2020
 
-"implant" is a R package to process high-throughput phenotyping images. Feel glad to be a co-author in this [paper](https://spj.sciencemag.org/plantphenomics/aip/7481687/). Thanks co-authors!
+"implant" is a R package to process high-throughput phenotyping images. Feel glad to be a co-author in this [Plant Phenomics paper](https://spj.sciencemag.org/plantphenomics/aip/7481687/). Thanks co-authors!
 
 04-2020
 
