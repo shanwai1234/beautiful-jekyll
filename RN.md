@@ -4,6 +4,10 @@ title: Research News
 
 News related to both research and Zhikai
 
+06-2020
+
+Feel thrilled to be selected as a Feature Editor in Molecular Plant. Look forward to making contribution to the development of the journal!
+
 05-2020
 
 "implant" is a R package to process high-throughput phenotyping images. Feel glad to be a co-author in this [Plant Phenomics paper](https://spj.sciencemag.org/plantphenomics/aip/7481687/). Thanks co-authors!
@@ -14,7 +18,9 @@ My previous study on high-throughput phenotyping of hybrid corns was used as a i
 
 03-2020
 
-One of my main projects during my PhD is published in [Molecular Plant](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30065-4#articleInformation) and online!
++ I was invited to deliver a presentation in Baibozhihui Dajiangtang. It is fun to communicate with many Scientists in the other time zone!
+
++ One of my main projects during my PhD is published in [Molecular Plant](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30065-4#articleInformation) and online!
 
 12-2019
 
