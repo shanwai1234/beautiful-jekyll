@@ -4,6 +4,14 @@ title: Research News
 
 News related to both research and Zhikai
 
+05-2020
+
+"implant" is a R package to process high-throughput phenotyping images. Feel glad to be a co-author in this [paper](https://spj.sciencemag.org/plantphenomics/aip/7481687/). Thanks co-authors!
+
+04-2020
+
+My previous study on high-throughput phenotyping of hybrid corns was used as a illustrator in Forbes to explain heterosis in plants. See news [here](https://www.forbes.com/sites/startswithabang/2019/04/30/fantasy-genetics-is-the-most-important-and-worst-science-in-game-of-thrones/#59edb0eb671e).
+
 03-2020
 
 One of my main projects during my PhD is published in [Molecular Plant](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30065-4#articleInformation) and online!
