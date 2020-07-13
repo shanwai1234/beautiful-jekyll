@@ -4,6 +4,10 @@ title: Research News
 
 News related to both research and Zhikai
 
+07-2020
+
+Being invited to join the guest editorial board of Frontiers in Genetics & Frontiers in Plant Sciences to start the topic of "[Decoding Connections between Phenotype and Genotype using Machine Learning](https://www.frontiersin.org/research-topics/15263/decoding-connections-between-phenotype-and-genotype-using-machine-learning)" !!
+
 06-2020
 
 Feel thrilled to be selected as a Feature Editor in Molecular Plant. Look forward to making contribution to the development of the journal!
