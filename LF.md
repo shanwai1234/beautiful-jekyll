@@ -9,6 +9,8 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
 
 <hr>
 
+* 2020 is special. Key words: fear, boring, patience, hope, opportunity. 
+
 * Parents are here, it is the ideal life I like!
 
 * Started in 2019, busy trips from San Diego to St Louis, then Raleigh, then Athens. 
