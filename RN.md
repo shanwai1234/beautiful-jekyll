@@ -4,6 +4,9 @@ title: Research News
 
 News related to both research and Zhikai
 
+09-2020
+Very glad to join BSA journal Applications in plant sciences as a [reviewing editor](https://bsapubs.onlinelibrary.wiley.com/hub/journal/21680450/homepage/editorialboard)!
+
 07-2020
 
 Being invited to join the guest editorial board of Frontiers in Genetics & Frontiers in Plant Sciences to start the topic of "[Decoding Connections between Phenotype and Genotype using Machine Learning](https://www.frontiersin.org/research-topics/15263/decoding-connections-between-phenotype-and-genotype-using-machine-learning)" !!
