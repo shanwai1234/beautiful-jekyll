@@ -3,6 +3,11 @@ title: Research News
 ---
 
 News related to both research and Zhikai
+03-2020
+
++ My first paper in Springer Lab was published in [Plant Physiology](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiab073/6137849?login=true)!
+
++ The nucleotide sequence is a pool of biological information, we used this to successfully predict functional genes between plant species and this paper was published in [PNAS](https://www.pnas.org/content/118/10/e2026330118/tab-article-info)!!
 
 09-2020
 
