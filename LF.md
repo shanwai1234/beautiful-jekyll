@@ -9,6 +9,8 @@ Trying to record wonderful, unforgettable, meaningful, interesting moment in dai
 
 <hr>
 
+* Got my first vaccine shot and hope the world can turn to be normal soon. 
+
 * 2020 is special. Key words: fear, boring, patience, hope, opportunity. 
 
 * Parents are here, it is the ideal life I like!
